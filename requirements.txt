@@ -8,7 +8,3 @@
 
 # Module useful for testing
 pytest
-
-# Gives us vectors and matrices and such
-numpy
-nptyping
